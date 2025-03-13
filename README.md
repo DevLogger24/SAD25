@@ -22,8 +22,7 @@ Inventory and Material Management,
 Production Management,
 Sales and Customer Relationship Management,
 Financial and Accounting Operations,
-Labor Management,
-Order Fulfillment
+
 
 
 Conclusion
