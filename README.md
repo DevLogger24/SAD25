@@ -18,11 +18,11 @@ By implementing an ERP solution, TwentyOne Gold will be better equipped to meet 
 
 Scope of the ERP System
 The proposed ERP system for TwentyOne Gold will be all-encompassing, covering critical areas such as:
-Inventory and Material Management
-Production Management
-Sales and Customer Relationship Management
-Financial and Accounting Operations
-Labor Management
+Inventory and Material Management,
+Production Management,
+Sales and Customer Relationship Management,
+Financial and Accounting Operations,
+Labor Management,
 Order Fulfillment
 
 
