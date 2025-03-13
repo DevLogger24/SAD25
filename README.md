@@ -1,4 +1,4 @@
-# SAD25 (ERP System Software)
+# TwentyOne Gold Jewelry (ERP System Software)
 Introduction
 In the competitive landscape of the high-end jewelry industry, efficient operations, superior customer service, and the ability to adapt to market changes are crucial for sustained growth and success. TwentyOne Gold Jewelry Establishment, renowned for its exquisite range of luxury jewelry, recognizes the increasing complexity of its operations and seeks to streamline and optimize business functions through the implementation of an integrated Enterprise Resource Planning (ERP) system.
 
@@ -22,8 +22,6 @@ Inventory and Material Management,
 Production Management,
 Sales and Customer Relationship Management,
 Financial and Accounting Operations,
-
-
 
 Conclusion
 The implementation of a comprehensive ERP system is a strategic step toward improving the operational efficiency, financial management, and customer service capabilities of TwentyOne Gold Jewelry Establishment. By integrating key business functions into a unified system, the company will be able to streamline processes, enhance customer experiences, and make more informed decisions that support long-term growth.
