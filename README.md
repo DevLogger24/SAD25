@@ -18,13 +18,14 @@ By implementing an ERP solution, TwentyOne Gold will be better equipped to meet 
 
 Scope of the ERP System
 The proposed ERP system for TwentyOne Gold will be all-encompassing, covering critical areas such as:
-
 Inventory and Material Management
 Production Management
 Sales and Customer Relationship Management
 Financial and Accounting Operations
 Labor Management
 Order Fulfillment
+
+
 Conclusion
 The implementation of a comprehensive ERP system is a strategic step toward improving the operational efficiency, financial management, and customer service capabilities of TwentyOne Gold Jewelry Establishment. By integrating key business functions into a unified system, the company will be able to streamline processes, enhance customer experiences, and make more informed decisions that support long-term growth.
 
